@@ -1,3 +1,6 @@
+#References
+https://www.imaginarycloud.com/blog/flask-python/
+
 # flask_demo 🌶
 Flask demo project with auto generated Swagger documentation. Refer to the [IC Blog Post](https://www.imaginarycloud.com/blog/flask-python/) to have a detailed explanation of this demo.
 
